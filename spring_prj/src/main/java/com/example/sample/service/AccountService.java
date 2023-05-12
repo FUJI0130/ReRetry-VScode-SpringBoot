@@ -11,7 +11,8 @@ import java.util.List;
 
 @Service
 @Transactional
-public class AccountService {
+public class AccountService 
+{
     @Autowired
     AccountRepository accountRepository;
 
