@@ -1,1 +1,1 @@
-# ReRetry-VScode-SpringBoot pull_Request is so long
+# ReRetry-VScode-SpringBoot いつもこちらから
